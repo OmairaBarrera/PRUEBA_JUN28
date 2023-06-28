@@ -1,0 +1,25 @@
+{
+    "name": "spukm01-074/prueba_jun28",
+    "description": "...",
+    "license": "LTS",
+    "autoload": {
+        "psr-4": {
+            "App\\": [
+                "./scripts",
+                "./scripts/db",
+                "./scripts/campers",
+                "./scripts/region",
+                "./scripts/pais",
+                "./scripts/departamento",
+                "./scripts/seller"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "OmairaBarrera",
+            "email": "lomaira.barrera@gmail.com"
+        }
+    ],
+    "require": {}
+}
